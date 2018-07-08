@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1530171185 source:c:\users\daffa mage\documents\dalian summer program\random2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1530865286 source:c:\users\daffa mage\documents\dalian summer program\random2\comparison.c
+	<stdio.h>
+	<stdlib.h>
+	"comparison.h"
+
+1530865254 c:\users\daffa mage\documents\dalian summer program\random2\comparison.h
+
